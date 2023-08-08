@@ -1,0 +1,1 @@
+This is a case study using politextpy. For another simpler demo, see the "demo" folder in the politextpy package.
